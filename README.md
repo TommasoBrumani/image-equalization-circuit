@@ -1,8 +1,11 @@
 # Image Equalization Circuit
 ## Overview
-The program is a `VHDL` implementation of a <b>circuit</b> for the simplified <b>equalization of the histogram of an image</b>, meaning the enhancement of the contrast between its pixels so that the whole 256-bit intensity range is used.
+The program is a `VHDL` implementation of a <b>logic circuit</b> for the simplified <b>equalization of the histogram of an image</b>, meaning the enhancement of the contrast between its pixels so that the whole 256-bit intensity range is used.
 
-The circuit code was developed for the `Vivado Design Suite` software.
+### License
+The project was carried out as part of the 2020/2021 '<b>Logic Networks</b>' course at <b>Politecnico of Milano</b>, where it was awarded a score of 30/30 cum Laude.
+
+The circuit code was developed for the `Vivado Design Suite` software, provided for free as part of the project for educational purposes.
 
 ## Project Specifications
 The circuit executes a simplified version of the standard image histogram equalization algorithm, as described in the `project_specifications.pdf` document (which also contains an example of the algorithm's execution).
